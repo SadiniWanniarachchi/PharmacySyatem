@@ -1,30 +1,26 @@
-## 📸 Screenshots
 
-### 🏠 Home Page
 ![Home Page](images/home.jpeg)
 
 ---
 
-### 🧾 About Page
+
 ![About Page](images/about.jpeg)
 
 ---
 
-### 📬 Contact Page
+
 ![Contact Page](images/contact.jpeg)
 
 
-
+---
 
 # 💊 MedCare - Online Pharmacy Management System
 
-## 🏥 Overview
+## Overview
 
 **MedCare** is a comprehensive **online pharmacy management system** built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It streamlines the workflow between pharmacies, suppliers, and customers, offering robust features for product management, order processing, and system-wide control.
 
----
-
-## ⚡ Key Features
+## Key Features
 
 ### 👩‍⚕️ For Customers
 - Browse and search medical products  
