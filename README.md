@@ -1,3 +1,21 @@
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](images/home.jpeg)
+
+---
+
+### 🧾 About Page
+![About Page](images/about.jpeg)
+
+---
+
+### 📬 Contact Page
+![Contact Page](images/contact.jpeg)
+
+
+
+
 # 💊 MedCare - Online Pharmacy Management System
 
 ## 🏥 Overview
@@ -75,3 +93,7 @@ MERN Stack Developer | UI/UX Enthusiast
    ```bash
    cd frontend && npm run dev
    cd backend && npm run dev
+
+
+
+   
